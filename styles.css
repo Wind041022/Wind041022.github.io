@@ -1,0 +1,63 @@
+#r2 {
+  float: left;
+  border-style: solid;
+  width: 50%;
+  background: #f465c7;
+  opacity: 0.77;
+  background-repeat: no-repeat;
+}
+.r3 {
+  border-style: groove;
+  width: 100%;
+  height: 50em;
+  border-top-width: 30px;
+  border-left-width: 20px;
+  border-right-width: 20px;
+  border-bottom-width: 50px;
+  border-color: #48c9b0;
+  background-image: url("https://res.cloudinary.com/dfaun79li/image/upload/v1700138744/image/IMG_1327_bj1y60.jpg");
+  background-size: cover;
+}
+.r1 {
+  color: #65d8f4;
+  lign-height: 2;
+  list-style-type: none;
+}
+#r4 {
+  border-style: solid;
+  float: right;
+  width: 48.96% /*50不行*/;
+  background-color: #00ff99;
+  opacity: 0.5;
+}
+#r5 {
+  color: #ec4ce0;
+}
+.r6 {
+  width: 100%;
+  border-style: ridge;
+  border-width: 3px;
+  board-color: yellow;
+  height: 36.5em;
+}
+.r7 {
+  width: 98.8%;
+  border-style: ridge;
+  border-width: 10px;
+  board-color: yellow;
+  background-color: #10d2ee;
+  height:190px
+}
+.r9 {
+  float: right;
+  width: 190px;
+  border-style: solid;
+  height:185px;
+  background-position:center center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-image:url("https://res.cloudinary.com/dfaun79li/image/upload/v1700146719/image/IMG_1333_su24qu.jpg")
+}
+#r10{background-image:url("https://res.cloudinary.com/dfaun79li/image/upload/v1700143619/image/IMG_1332_dwxew7.jpg")
+}
+#r11{width:270px;background-image:url("https://res.cloudinary.com/dfaun79li/image/upload/v1700148165/image/IMG_1334_rkiokc.jpg")}
